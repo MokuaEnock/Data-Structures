@@ -11,3 +11,21 @@ const namesAndScores = {
 };
 
 let array = ["the", 3, 4, "three"];
+
+/* Array() constructor syntax */
+Array("index0", "index1", /* ... */ "index2");
+
+/* Example 1 */
+
+const students = Array(5);
+
+console.log(students.length); //5
+
+/* literal notation syntax */
+const exampleArray = ["element0", "element1", /* ... */ "elementN"];
+
+/* example */
+
+const cars = ["Bus", "lorry", "Van", "Truck"];
+console.log(cars) //[ 'Bus', 'lorry', 'Van', 'Truck' ]
+
