@@ -9,3 +9,5 @@ const namesAndScores = {
   Tony: 56,
   Denise: 78,
 };
+
+let array = ["the", 3, 4, "three"];
