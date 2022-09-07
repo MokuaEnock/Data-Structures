@@ -5,6 +5,7 @@ In computer science, a data structure is a format to organize manage and store d
 
 Javascript has **built-in** and **non-built-in** data structures, built-in data structures come with javascript and can be implemented out of the box like arrays and objects.
 An example of an array and object is;
+
 <pre>
 <code>
 /* array */
@@ -21,3 +22,20 @@ const namesAndScores = {
 };
 </code>
 </pre>
+
+Non primitive data structures or built-in data structures are coded from scratch when we want to use them. Different data structures exist because some are suited for different use cases more than others.
+
+These data structures are;
+
+<ol>
+
+<li><a href="#">Stack</a></li>
+<li><a href="#">Queue</a></li>
+<li><a href="#">Linked List</a></li>
+<li><a href="#">Set</a></li>
+<li><a href="#">Hash Table</a></li>
+<li><a href="#">Tree</a></li>
+<li><a href="#">Trie</a></li>
+<li><a href="#">Graph</a></li>
+
+</ol>
